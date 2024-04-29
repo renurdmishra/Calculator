@@ -2,5 +2,5 @@
 
 This is my Calculator ... 
 
-You can calcutae many things
+You can calculate many things
 like Add, sub, mult, div
